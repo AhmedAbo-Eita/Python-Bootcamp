@@ -9,4 +9,4 @@ def volume_converter(num):
     result = num*29.57353
     print(result)
 
-print(volume_converter(10))
+volume_converter(6)
