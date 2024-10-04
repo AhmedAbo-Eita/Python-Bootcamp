@@ -6,14 +6,14 @@
 Course Link : [Python for Everyone](https://www.udemy.com/course/python-foreveryone/learn/)
 
 ## Course Content
-1. [ ] Section 1 - Why We Program?
-2. [ ] Section 2 - Variables, Expressions and Statements
-3. [ ] Section 3 - Real Python Projects ( Variable, Expressions and Statements)
-4. [ ] Section 4 - Conditional Execution
-5. [ ] Section 5 - Real Python Projects ( Conditional Execution)
-6. [ ] Section 6 - Python Functions
-7. [ ] Section 7 - Real Python Projects (Python Functions)
-8. [ ] Section 8 - Iteration (Lists)
+1. [ ] ~~Section 1 - Why We Program?~~
+2. [ ] ~~Section 2 - Variables, Expressions and Statements~~
+3. [ ] ~~Section 3 - Real Python Projects ( Variable, Expressions and Statements)~~
+4. [ ] ~~Section 4 - Conditional Execution~~
+5. [ ] ~~Section 5 - Real Python Projects ( Conditional Execution)~~
+6. [ ] ~~Section 6 - Python Functions~~
+7. [ ] ~~Section 7 - Real Python Projects (Python Functions)~~
+8. [ ] ~~Section 8 - Iteration (Lists)~~
 9. [ ] Section 9 - Real Python Projects (Iteration)
 10. [ ] Section 10 - Introduction to Data Structures
 11. [ ] Section 11 - Strings
