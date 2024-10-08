@@ -24,8 +24,6 @@
 # You chose rock, computer chose paper.
 # Paper covers rock! You lose.
 # Play again (Y/N)?
-# Hint
-# Use choice() function from random module to select random elements from option list./
 
 import random
 
