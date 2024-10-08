@@ -14,8 +14,8 @@ Course Link : [Python for Everyone](https://www.udemy.com/course/python-forevery
 6. [ ] ~~Section 6 - Python Functions~~
 7. [ ] ~~Section 7 - Real Python Projects (Python Functions)~~
 8. [ ] ~~Section 8 - Iteration (Lists)~~
-9. [ ] Section 9 - Real Python Projects (Iteration)
-10. [ ] Section 10 - Introduction to Data Structures
+9. [ ] ~~Section 9 - Real Python Projects (Iteration)~~
+10. [ ] ~~Section 10 - Introduction to Data Structures~~
 11. [ ] Section 11 - Strings
 12. [ ] Section 12 - More on Python Lists
 13. [ ] Section 13 - Real Python Projects (List)
