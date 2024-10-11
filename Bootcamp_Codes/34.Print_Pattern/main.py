@@ -4,10 +4,18 @@
 # So if n equals 5 the maximum number of stars (*) will be 5 in the pattern.
 
 def print_pattern(n):
+    counter = 1
     for i in range(0,n):
-        for j in range(0,n):
-            print("*")
-        print("\n")
+        for j in range(0,counter):
+            print("*", end=" " )
+        counter +=1
+        print(" ")
+    counter -=1
+    for i in range(0,n):
+        for j in range(1,counter):
+            print("*", end=" " )
+        counter -=1
+        print(" ")
 
 
-print_pattern(5)
+print_pattern(10)
