@@ -20,7 +20,7 @@ import random
 user_input = input("Enter the names separated by comma ',': ")
 
 #convert string to list
-names_list = user_input.split(',')
+names_list = user_input.split(', ')
 
 #choose person from list of names
 name = random.choice(names_list)
